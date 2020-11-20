@@ -98,7 +98,19 @@
                     hreflang="zh-cn"
                     href="https://blog.163168.xyz/"
                     /></url><url>
-            <loc>https://blog.163168.xyz/post/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.163168.xyz/posts/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://blog.163168.xyz/en/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://blog.163168.xyz/fr/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://blog.163168.xyz/posts/"
+                    /></url><url>
             <loc>https://blog.163168.xyz/tags/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -114,19 +126,6 @@
                     /></url><url>
             <loc>https://blog.163168.xyz/tags/%E7%BD%91%E7%AB%99/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.163168.xyz/categories/%E7%BD%91%E7%AB%99/</loc><lastmod>2020-06-01T15:55:32&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.163168.xyz/posts/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://blog.163168.xyz/en/posts/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://blog.163168.xyz/fr/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://blog.163168.xyz/posts/"
-                    /></url><url>
             <loc>https://blog.163168.xyz/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -347,11 +346,6 @@
                     hreflang="zh-cn"
                     href="https://blog.163168.xyz/about/"
                     /></url><url>
-            <loc>https://blog.163168.xyz/tags/preview/</loc><lastmod>2018-11-05T16:01:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.163168.xyz/tags/syntax-highlighting/</loc><lastmod>2018-11-05T16:01:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.163168.xyz/categories/syntax-highlighting/</loc><lastmod>2018-11-05T16:01:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.163168.xyz/post/syntax-highlighting/</loc><lastmod>2018-11-05T16:01:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.163168.xyz/tags/tag-5/</loc><lastmod>2018-11-05T16:01:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.163168.xyz/tags/it%E8%BD%AF%E4%BB%B6/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.163168.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.163168.xyz/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
