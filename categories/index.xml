@@ -2,404 +2,404 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://waimao365.tk/hugo3/categories/</link>
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2020 15:55:32 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 15:55:32 +0000</lastBuildDate><atom:link href="https://waimao365.tk/hugo3/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/categories/github/</link>
+      <link>https://waimao365.tk/hugo3/categories/github/</link>
       <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/github/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://localhost:1313/categories/hugo/</link>
+      <link>https://waimao365.tk/hugo3/categories/hugo/</link>
       <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/hugo/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>网站</title>
-      <link>http://localhost:1313/categories/%E7%BD%91%E7%AB%99/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E7%BD%91%E7%AB%99/</link>
       <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E7%BD%91%E7%AB%99/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E7%BD%91%E7%AB%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloudflare</title>
-      <link>http://localhost:1313/categories/cloudflare/</link>
+      <link>https://waimao365.tk/hugo3/categories/cloudflare/</link>
       <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/cloudflare/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/cloudflare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k2p</title>
-      <link>http://localhost:1313/categories/k2p/</link>
+      <link>https://waimao365.tk/hugo3/categories/k2p/</link>
       <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/k2p/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/k2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>域名</title>
-      <link>http://localhost:1313/categories/%E5%9F%9F%E5%90%8D/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E5%9F%9F%E5%90%8D/</link>
       <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E5%9F%9F%E5%90%8D/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E5%9F%9F%E5%90%8D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>路由</title>
-      <link>http://localhost:1313/categories/%E8%B7%AF%E7%94%B1/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E8%B7%AF%E7%94%B1/</link>
       <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E8%B7%AF%E7%94%B1/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E8%B7%AF%E7%94%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LG V30</title>
-      <link>http://localhost:1313/categories/lg-v30/</link>
+      <link>https://waimao365.tk/hugo3/categories/lg-v30/</link>
       <pubDate>Mon, 23 Dec 2019 20:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/lg-v30/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/lg-v30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>root</title>
-      <link>http://localhost:1313/categories/root/</link>
+      <link>https://waimao365.tk/hugo3/categories/root/</link>
       <pubDate>Mon, 23 Dec 2019 20:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/root/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/root/</guid>
       <description></description>
     </item>
     
     <item>
       <title>刷机</title>
-      <link>http://localhost:1313/categories/%E5%88%B7%E6%9C%BA/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E5%88%B7%E6%9C%BA/</link>
       <pubDate>Mon, 23 Dec 2019 20:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E5%88%B7%E6%9C%BA/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E5%88%B7%E6%9C%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>安卓手机</title>
-      <link>http://localhost:1313/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
       <pubDate>Mon, 23 Dec 2019 20:10:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APK Downloader</title>
-      <link>http://localhost:1313/categories/apk-downloader/</link>
+      <link>https://waimao365.tk/hugo3/categories/apk-downloader/</link>
       <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/apk-downloader/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/apk-downloader/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cheome插件</title>
-      <link>http://localhost:1313/categories/cheome%E6%8F%92%E4%BB%B6/</link>
+      <link>https://waimao365.tk/hugo3/categories/cheome%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/cheome%E6%8F%92%E4%BB%B6/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/cheome%E6%8F%92%E4%BB%B6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>安卓软件</title>
-      <link>http://localhost:1313/categories/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</link>
       <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recovery</title>
-      <link>http://localhost:1313/categories/recovery/</link>
+      <link>https://waimao365.tk/hugo3/categories/recovery/</link>
       <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/recovery/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/recovery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twrp</title>
-      <link>http://localhost:1313/categories/twrp/</link>
+      <link>https://waimao365.tk/hugo3/categories/twrp/</link>
       <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/twrp/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/twrp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>黑苹果</title>
-      <link>http://localhost:1313/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
       <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>http://localhost:1313/categories/linux/</link>
+      <link>https://waimao365.tk/hugo3/categories/linux/</link>
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/linux/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mac</title>
-      <link>http://localhost:1313/categories/mac/</link>
+      <link>https://waimao365.tk/hugo3/categories/mac/</link>
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/mac/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PE</title>
-      <link>http://localhost:1313/categories/pe/</link>
+      <link>https://waimao365.tk/hugo3/categories/pe/</link>
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/pe/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/pe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>电脑系统</title>
-      <link>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>电脑软件</title>
-      <link>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>驱动</title>
-      <link>http://localhost:1313/categories/%E9%A9%B1%E5%8A%A8/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E9%A9%B1%E5%8A%A8/</link>
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E9%A9%B1%E5%8A%A8/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E9%A9%B1%E5%8A%A8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hexo</title>
-      <link>http://localhost:1313/categories/hexo/</link>
+      <link>https://waimao365.tk/hugo3/categories/hexo/</link>
       <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/hexo/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/hexo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jsdelivr</title>
-      <link>http://localhost:1313/categories/jsdelivr/</link>
+      <link>https://waimao365.tk/hugo3/categories/jsdelivr/</link>
       <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/jsdelivr/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/jsdelivr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PicGo</title>
-      <link>http://localhost:1313/categories/picgo/</link>
+      <link>https://waimao365.tk/hugo3/categories/picgo/</link>
       <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/picgo/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/picgo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>斐讯N1</title>
-      <link>http://localhost:1313/categories/%E6%96%90%E8%AE%AFn1/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E6%96%90%E8%AE%AFn1/</link>
       <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E6%96%90%E8%AE%AFn1/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E6%96%90%E8%AE%AFn1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lnmp</title>
-      <link>http://localhost:1313/categories/lnmp/</link>
+      <link>https://waimao365.tk/hugo3/categories/lnmp/</link>
       <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/lnmp/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/lnmp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mysql</title>
-      <link>http://localhost:1313/categories/mysql/</link>
+      <link>https://waimao365.tk/hugo3/categories/mysql/</link>
       <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/mysql/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nginx</title>
-      <link>http://localhost:1313/categories/nginx/</link>
+      <link>https://waimao365.tk/hugo3/categories/nginx/</link>
       <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/nginx/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/nginx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>omv</title>
-      <link>http://localhost:1313/categories/omv/</link>
+      <link>https://waimao365.tk/hugo3/categories/omv/</link>
       <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/omv/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/omv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typecho</title>
-      <link>http://localhost:1313/categories/typecho/</link>
+      <link>https://waimao365.tk/hugo3/categories/typecho/</link>
       <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/typecho/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/typecho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chrome</title>
-      <link>http://localhost:1313/categories/chrome/</link>
+      <link>https://waimao365.tk/hugo3/categories/chrome/</link>
       <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/chrome/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/chrome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tampermonkey</title>
-      <link>http://localhost:1313/categories/tampermonkey/</link>
+      <link>https://waimao365.tk/hugo3/categories/tampermonkey/</link>
       <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/tampermonkey/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/tampermonkey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>博客</title>
-      <link>http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 09 Sep 2019 14:37:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>category-2</title>
-      <link>http://localhost:1313/categories/category-2/</link>
+      <link>https://waimao365.tk/hugo3/categories/category-2/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/category-2/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/category-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>category-3</title>
-      <link>http://localhost:1313/categories/category-3/</link>
+      <link>https://waimao365.tk/hugo3/categories/category-3/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/category-3/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/category-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme preview</title>
-      <link>http://localhost:1313/categories/theme-preview/</link>
+      <link>https://waimao365.tk/hugo3/categories/theme-preview/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/theme-preview/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/theme-preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>http://localhost:1313/categories/english/</link>
+      <link>https://waimao365.tk/hugo3/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/english/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日本語</title>
-      <link>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://localhost:1313/categories/shortcodes/</link>
+      <link>https://waimao365.tk/hugo3/categories/shortcodes/</link>
       <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/shortcodes/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/categories/syntax-highlighting/</link>
+      <link>https://waimao365.tk/hugo3/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/syntax-highlighting/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>百度网盘下载</title>
-      <link>http://localhost:1313/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</link>
+      <link>https://waimao365.tk/hugo3/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</guid>
+      <guid>https://waimao365.tk/hugo3/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</guid>
       <description></description>
     </item>
     
